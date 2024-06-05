@@ -8,8 +8,8 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/osandrofelipe/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
-</a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
+  </a>
   <a href="https://www.instagram.com/osandrofelipe/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="instagram logo"  />
   </a>
