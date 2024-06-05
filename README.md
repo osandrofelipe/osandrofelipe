@@ -2,14 +2,14 @@
 
 ###
 
-<p align="left">🔭 Frontend (HTML, CSS, JavaScript) | JavaScript Developer | DevOps | Support Infrastructure<br>🌱 Always learning<br>📧 Contact: e-mail: sandrofelipe.services@hotmail.com</p>
+<p align="left">🔭 Frontend (HTML, CSS, JavaScript) | JavaScript Developer | DevOps | Support Infrastructure<br>🌱 Always learning<br>📧 Contact: sandrofelipe.services@hotmail.com</p>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/osandrofelipe/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
-  </a>
+</a>
   <a href="https://www.instagram.com/osandrofelipe/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="instagram logo"  />
   </a>
