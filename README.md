@@ -10,7 +10,7 @@
 
 🚀 Atualmente, estou aprimorando minhas habilidades em JavaScript, Node.js, React, APIs REST, bancos de dados SQL/NoSQL e automação de processos.
 
-🔗 Conecte-se comigo no <a href="https://www.linkedin.com/in/sandrofelipe" style="text-decoration: none;">LinkedIn</a> e acompanhe minha jornada por aqui!
+🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/sandrofelipe) e acompanhe minha jornada por aqui!
 
 
 ###
