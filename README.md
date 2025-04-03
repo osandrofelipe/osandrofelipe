@@ -4,6 +4,14 @@
 
 <p align="left">🔭 Frontend (HTML, CSS, JavaScript) | JavaScript Developer | DevOps | Support Infrastructure<br>🌱 Always learning<br>
 
+👋 Olá! Sou Sandro dos Santos Felipe, profissional com mais de 12 anos de experiência em infraestrutura de TI, monitoramento e automação, atualmente em transição para a área de Desenvolvimento Web. Tenho conhecimento em frontend e backend, além de experiência com DevOps, CI/CD e computação em nuvem (AWS, Azure, Google Cloud).
+
+💡 Sou apaixonado por tecnologia, aprendizado contínuo e soluções inovadoras. Busco criar aplicações eficientes e escaláveis, unindo minha bagagem em infraestrutura com as melhores práticas de desenvolvimento.
+
+🚀 Atualmente, estou aprimorando minhas habilidades em JavaScript, Node.js, React, APIs REST, bancos de dados SQL/NoSQL e automação de processos.
+
+🔗 Conecte-se comigo no <a href="https://www.linkedin.com/in/osandrofelipe/">LinkedIn</a> e acompanhe minha jornada por aqui!
+
 ###
 
 <div align="left">
