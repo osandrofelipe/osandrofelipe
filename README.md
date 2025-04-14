@@ -10,7 +10,7 @@
 
 🚀 Atualmente, estou aprimorando minhas habilidades em JavaScript, Node.js, React, APIs REST, bancos de dados SQL/NoSQL e automação de processos.
 
-🔗 Conecte-se comigo no <a href="https://www.linkedin.com/in/osandrofelipe/" target="_blank">Linkedin</a> e acompanhe minha jornada por aqui!
+🔗 Conecte-se comigo no <a href="https://www.linkedin.com/in/osandrofelipe/" target="_blank" style="text-decoration: none">Linkedin</a> e acompanhe minha jornada por aqui!
 
 
 ###
